@@ -1,0 +1,4 @@
+.idea/
+vendor/
+tmp/*.log
+tmp/cache/*.txt

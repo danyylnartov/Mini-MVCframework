@@ -1,0 +1,12 @@
+{
+    "name": "mvcframework/mvcframework",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "mvcframework\\": "MVCfw",
+            "app\\": "app"
+        }
+    }
+}
